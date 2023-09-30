@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>falanfilanlar</title>
+    <link rel="stylesheet" href="stil.css">
+</head>
+<body>
+    <h1>Biraz müziğe ne dersin?</h1>
+    <p>alttaki video linklerinden herhangi birine tıklayabilirsin!</p>
+    <h2>çok seveceğine eminim!</h2>
+             <ul>
+                   <li>https://www.youtube.com/watch?v=iaS4RX-JSK0</li>
+                   <li>https://www.youtube.com/watch?v=vnkP05jizsc</li>
+                   <li>https://www.youtube.com/watch?v=TmlexmI1cmM&list=RDnTdw39ugHh4&index=37</li>
+                   <li>https://www.youtube.com/watch?v=iup8sfOe-3Y&list=RDnTdw39ugHh4&index=25</li>
+                   <li>https://www.youtube.com/watch?v=4DKTYe2eA3I&list=RDnTdw39ugHh4&index=39</li>
+                   <li>https://www.youtube.com/watch?v=fdVnTXUMQ84</li>
+                   <li>https://www.youtube.com/watch?v=UO0ff2L2Vzg&list=RDnTdw39ugHh4&index=32</li>
+                   <li>https://www.youtube.com/watch?v=mkka6K8runM&list=RDnTdw39ugHh4&index=29</li>
+                   <li>https://www.youtube.com/watch?v=8FkfNksAJTg</li>
+                   <li>https://www.youtube.com/watch?v=SnESnHI_lmY</li>
+                   <li>https://www.youtube.com/watch?v=Bxir-t0Z-sc</li>
+                   <li>https://www.youtube.com/watch?v=Mhs0hz7vBoQ</li>
+                   <li>https://www.youtube.com/watch?v=Dod16j2t3ko&list=RDnTdw39ugHh4&index=31</li>
+                   <li>https://www.youtube.com/watch?v=rwRyNBcxmEc</li>
+             </ul>
+</body>
+</html>
